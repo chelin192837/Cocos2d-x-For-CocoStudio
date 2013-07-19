@@ -480,6 +480,12 @@
     <ClCompile Include="..\CocostudioReader\DictionaryHelper.cpp">
       <Filter>CocostudioReader</Filter>
     </ClCompile>
+    <ClCompile Include="..\CocoGUILIB\UIWidgets\UIDragPanel.cpp">
+      <Filter>CocoGUILIB\UIWidgets</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CocoGUILIB\UIWidgets\UIWrapPanel.cpp">
+      <Filter>CocoGUILIB\UIWidgets</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\GUI\CCScrollView\CCScrollView.h">
@@ -852,6 +858,12 @@
     </ClInclude>
     <ClInclude Include="..\CocostudioReader\DictionaryHelper.h">
       <Filter>CocostudioReader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CocoGUILIB\UIWidgets\UIDragPanel.h">
+      <Filter>CocoGUILIB\UIWidgets</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CocoGUILIB\UIWidgets\UIWrapPanel.h">
+      <Filter>CocoGUILIB\UIWidgets</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
